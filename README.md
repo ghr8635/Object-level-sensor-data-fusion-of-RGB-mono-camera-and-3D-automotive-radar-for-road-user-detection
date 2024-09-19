@@ -12,11 +12,13 @@ Motion Prediction: Integrate spatially correlated data using Kalman filters and 
 **Object Detection Models:**
 
 **YOLOv8:** Trained on the Fraunhofer INFRA-3DRC-Dataset for detecting objects in RGB images.
-**Faster R-CNN:** Another object detection model utilized for comparative analysis and improved accuracy.
+
+**Faster R-CNN: **Another object detection model utilized for comparative analysis and improved accuracy.
 Radar Data Clustering:
 
 **DBSCAN:** Developed a radar clustering algorithm to optimize object detection and tracking from radar data.
-Data Fusion:
+
+**Data Fusion:**
 
 **Spatial Data Association:** Techniques to accurately fuse data from the RGB camera and radar sensors.
 **Kalman Filter:** Used to integrate spatially correlated data and motion predictions for precise forecasting.
